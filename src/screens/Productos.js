@@ -2,7 +2,7 @@ import React from 'react';
 import { View, Text, FlatList, StyleSheet, TouchableOpacity, Image } from 'react-native';
 
 // Importa la imagen de Product 1
-import Product1Image from '/xampp/htdocs/FrostyThreads-app/assets/product1.png/'; // Asegúrate de que la ruta sea correcta
+import Product1Image from '/xampp/htdocs/tienda-app-movil/assets/product1.png/'; // Asegúrate de que la ruta sea correcta
 
 const ProductosScreen = () => {
   const productos = [
